@@ -1,0 +1,10 @@
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.csprojAssemblyReference.cache
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.Form1.resources
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.Properties.Resources.resources
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.csproj.GenerateResource.cache
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.csproj.CoreCompileInputs.cache
+D:\Files\Visual_Studio\snek\snek\bin\Debug\snek.exe.config
+D:\Files\Visual_Studio\snek\snek\bin\Debug\snek.exe
+D:\Files\Visual_Studio\snek\snek\bin\Debug\snek.pdb
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.exe
+D:\Files\Visual_Studio\snek\snek\obj\Debug\snek.pdb
